@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="runtimeperms_access_background_location">Background location</string>
+    <string name="runtimeperms_system_alert_window">Display over other apps</string>
+    <string name="runtimeperms_write_settings">Modify system settings</string>
+    <string name="runtimeperms_manage_external_storage">All files access</string>
+    <string name="runtimeperms_request_install_packages">Install unknown apps</string>
+    <string name="runtimeperms_post_notification">Notifications</string>
+    <string name="runtimeperms_body_sensor_background">Background body sensors</string>
+</resources>
